@@ -1,0 +1,93 @@
+@media only screen and (min-width:200px) and (max-width:575px) {
+	.header-fixed {
+		flex-direction:column;
+	}
+
+	.header-fixed button {
+		position:fixed;
+		bottom:0px;
+		width:40%;
+	}
+
+	.bannermid {
+		flex-direction:column;
+	}
+
+	.banner-content {
+		width:100%;
+	}
+
+	.packages-inner {
+		flex-direction:column;
+
+	}
+
+	.video-inn {
+		flex-direction:column;
+	}
+
+	.vid-itm  {
+		flex-basis:100%;
+	}
+
+	/*.vid-itm iframe {
+		flex-basis:100%;
+	}*/
+
+	.content {
+		flex-direction:column;
+	}
+
+	.content-inner {
+		flex-basis:100%;
+	}
+
+	.content-fixed {
+		display:flex;
+		flex-direction:column;
+	}
+
+
+	.whyitm {
+		flex-basis:100%;
+		
+
+
+	}
+
+	.whyitm img {
+		padding-right:40px;
+
+	}
+
+	.ach-mid {
+		flex-wrap:wrap;
+		justify-content:center;
+	} 	
+
+	.testimony {
+		flex-basis:80%;
+		padding:0px;
+	}
+
+	.container-below {
+		flex-wrap:wrap;
+	}
+
+	.piece {
+		flex-basis:47%;
+	}
+
+	.btn {
+	margin:auto;
+	padding-right:45%;
+	
+}
+
+
+
+
+
+
+
+
